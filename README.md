@@ -1,2 +1,4 @@
 # Tasks-from-CodeWars-in-JavaScript
-Tasks from CodeWars in JavaScript in Russian
+
+- Tasks from CodeWars in JavaScript in Russian
+- JavaScript Practice
