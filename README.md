@@ -2,5 +2,5 @@
 
 - Tasks from CodeWars in JavaScript in Russian
 - JavaScript Practice
-- Total tasks -> 7
+- Total tasks -> 8
 
