@@ -2,4 +2,4 @@
 
 - Tasks from CodeWars in JavaScript in Russian
 - JavaScript Practice
-- Total solved tasks -> 22
+- Total solved tasks -> 23
